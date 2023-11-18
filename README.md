@@ -1,2 +1,2 @@
 # swathi-resume
-This is a demo site for GitHub Repo
+This was my first protofoilo Resume project. where I have used Html and CSS skills. 
